@@ -1,0 +1,99 @@
+body{
+font-family: Courier, fixed width;
+margin: 0px;
+color: 444444;
+}
+
+.main{
+margin: 0px;
+}
+
+.links{
+margin-top: 5px;
+	font-size: 12pt;
+	text-align: center;
+}
+
+.muchtext{
+margin-top: 10px;
+margin-bottom: 40px;
+	/*text-indent: 25px;*/
+}
+
+.myname{
+font-weight: bold;
+	font-size: 16pt;
+margin-bottom: 20px;
+}
+
+.loud{
+font-weight: bold;
+	font-size: 48pt;
+margin-top: 20px;
+}
+
+
+
+#parent{
+	width 100%;
+	height: 100%;
+	/*border: 1px solid #000000;*/
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	}
+	
+#header{
+	width: 800px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 16pt;
+	}	
+	
+#content{
+ min-height: 800px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -800px;
+	margin-bottom: 50px;
+	text-align: center;
+	}
+	
+	#sidebar{
+	width: 400px;
+	height: 800px;
+	margin-left: 50px;
+	text-align: Left;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+	
+/*#footer{
+	width: 100%;
+	height: 110px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #444444;
+	}
+	
+#footerbox{
+	width: 800px;
+	height: 95px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -100px;
+	text-align: right;
+	font-size: 10pt;
+	color: #FFFFFF;
+	}*/
+
+a:link {text-decoration: none; color: #9C1C1C;}
+a:visited {text-decoration: none; color: #9C1C1C;}
+a:hover {text-decoration: none; color: #444444;}
