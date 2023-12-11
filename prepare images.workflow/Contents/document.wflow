@@ -317,7 +317,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>percentageValue</key>
-					<real>50</real>
+					<integer>100</integer>
 					<key>scaleMethod</key>
 					<integer>0</integer>
 					<key>scaleValue</key>
@@ -340,7 +340,7 @@
 				<key>Class Name</key>
 				<string>AMScaleImagesAction</string>
 				<key>InputUUID</key>
-				<string>1C6F5E9C-F782-413B-979F-59CBBED14978</string>
+				<string>8838810B-D23F-45A2-9D83-41DBAE8E28C1</string>
 				<key>Keywords</key>
 				<array>
 					<string>Image</string>
@@ -349,9 +349,9 @@
 					<string>Change</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>E2D3E5CF-20AF-4ABD-87A2-43CD1AB41E47</string>
+				<string>19B1E391-B89B-4136-8C40-64C5016A0679</string>
 				<key>UUID</key>
-				<string>49F8A336-5671-4D4A-B5CA-6F675E53437B</string>
+				<string>17E5EE7E-7CC1-4A5D-AF5B-FDA5AD4FE511</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Preview</string>
@@ -411,6 +411,8 @@
 						<string>3</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -424,19 +426,19 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>8AC611BC-1E94-44E3-8F3D-6821A01AE02B</key>
+		<key>024E7FB8-1C87-4D7E-9BBB-E561B346B707</key>
 		<dict>
 			<key>from</key>
 			<string>A24829CC-56EF-4ECD-94C5-04F1A18427E2 - A24829CC-56EF-4ECD-94C5-04F1A18427E2</string>
 			<key>to</key>
 			<string>B753D026-0EBE-406C-A84D-22F2C7470A71 - B753D026-0EBE-406C-A84D-22F2C7470A71</string>
 		</dict>
-		<key>BBFD2FC8-A67B-4710-A14A-9A6FE6135194</key>
+		<key>DFB3D430-A485-4B07-A378-5EF2D033BEE7</key>
 		<dict>
 			<key>from</key>
 			<string>B753D026-0EBE-406C-A84D-22F2C7470A71 - B753D026-0EBE-406C-A84D-22F2C7470A71</string>
 			<key>to</key>
-			<string>49F8A336-5671-4D4A-B5CA-6F675E53437B - 49F8A336-5671-4D4A-B5CA-6F675E53437B</string>
+			<string>17E5EE7E-7CC1-4A5D-AF5B-FDA5AD4FE511 - 17E5EE7E-7CC1-4A5D-AF5B-FDA5AD4FE511</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
